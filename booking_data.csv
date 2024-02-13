@@ -1,0 +1,8 @@
+booking_id,customer_id,booking_date,destination,number_of_passengers,cost_per_passenger
+201,10001,2/13/2024,paris,1,10000
+202,10001,2/13/2024,frankfurt,2,9000
+203,10001,1/13/2024,delhi,5,2500
+204,10005,2/1/2024,mumbai,6,1500
+205,10007,2/5/2024,munich,1,9000
+206,10009,2/10/2024,delhi,6,2500
+207,10004,2/11/2024,paris,1,10000
