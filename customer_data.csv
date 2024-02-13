@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone,
+10001,raja,ganesh,rajaganesh@gmail.com,1234567,7
+10002,ravi,teja,raviteja@yahoo.com,9123456789,10
+10003,sundram,mohan,mohansundaram@gmail.com,9923456789,10
+10004,kumar,menon,kumarmenon@gmail.com,9992345678,10
+10005,sneha,nair,,7623456780,10
+10006,prithi,,prithvi@gmail.com,9441234567,10
+10007,arun,kumar,runkumar@ymail.com,9992345600,10
+10008,parthiv,patel,parthivpatel@gmail.com,134426272,9
+10009,ashwin,,ahwin@yahoo.com,111111111,9
+10010,dravid,,dravid@hotmail.com,9123466880,10
