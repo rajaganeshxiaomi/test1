@@ -6,3 +6,4 @@ Step 4: Bulk insert the preprocessed data in postgressql using the python code.
 Step 5: Schedule the ingesting process daily to upload the daily booking data.
 Step 6: Batch transfer the data in postgressql to cloud
 Step 7: Encrypt the PII information using MD5 encryption technique.
+
